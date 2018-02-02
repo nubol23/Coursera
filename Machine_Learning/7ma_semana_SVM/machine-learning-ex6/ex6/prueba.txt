@@ -1,0 +1,6 @@
+Hi Rafael Villca,
+
+Improve your skills with this challenge recommended for you:
+Day 7: Temperature Predictions
+Artificial Intelligence | 264 submissions
+Given a record of maximum and the minimum monthly temperatures with some gaps in the data, estimate the missing values.
